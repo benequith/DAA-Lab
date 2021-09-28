@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632426223 source:c:\heritagelab\daa\kmp\main.c
+	<stdio.h>
+	<string.h>
+

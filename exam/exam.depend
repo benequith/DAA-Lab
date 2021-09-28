@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632724575 source:c:\heritagelab\daa\exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

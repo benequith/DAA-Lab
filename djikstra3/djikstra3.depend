@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630769540 source:c:\heritagelab\daa\djikstra3\main.c
+	<stdio.h>
+	<stdlib.h>
+

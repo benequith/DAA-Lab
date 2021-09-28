@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632661873 source:c:\heritagelab\daa\mcm_complete\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632584849 source:c:\heritagelab\daa\bellman\main.c
+	<stdio.h>
+	<stdlib.h>
+
